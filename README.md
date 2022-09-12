@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/pierpaolosestito-dev/pierpaolosestito-dev/blob/main/header.png"/>
+<img src="https://github.com/pierpaolosestito-dev/pierpaolosestito-dev/blob/main/header2.png"/>
 </p>
 
 - 💻 Student at University of Calabria 
