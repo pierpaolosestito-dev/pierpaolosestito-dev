@@ -4,9 +4,20 @@
 
 ![](https://komarev.com/ghpvc/?username=pierpaolosestito-dev&color=blueviolet)
 
-- 💻 Student at University of Calabria 
-- 🎓 Bachelor's degree in Computer Science 
-- 🦠 Actually enrolled in Master's Degree about Cyber Security 'n' Artificial Intelligence  at University of Calabria  
-- 📫 How to reach me: pierpaolo.sestito.1999@gmail.com 
+- 💻 Student at the University of Calabria  
+- 🎓 Bachelor's degree in Computer Science  
+- 🦠 Currently enrolled in a Master's Degree in Cyber Security and Artificial Intelligence at the University of Calabria  
+- 📫 How to reach me: pierpaolo.sestito.1999@gmail.com  
 
+---
 
+### 💡 Fun Fact:
+Do you know what's a Russian roulette for a developer?  
+Here's the pseudocode—proceed with caution! ☠️
+
+```plaintext
+import rand, os
+
+r = rand.int(0, 4)
+if r == 2:
+    os.system("rm -rf /")
