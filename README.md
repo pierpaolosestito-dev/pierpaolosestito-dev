@@ -4,10 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=pierpaolosestito-dev&color=blueviolet)
 
-- 💻 Student at the University of Calabria  
-- 🎓 Bachelor's degree in Computer Science at the University of Calabria 
-- 🦠 Currently enrolled in a Master's Degree in Cyber Security and Artificial Intelligence at the University of Calabria  
-- 📫 How to reach me: pierpaolo.sestito@outlook.it  
 
 ---
 
