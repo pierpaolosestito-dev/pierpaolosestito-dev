@@ -10,8 +10,7 @@
 
 I am a Computer Science graduate (M.Sc.) in Artificial Intelligence and Cybersecurity at the University of Calabria.
 
-His work lies at the intersection of **AI, cybersecurity, and secure system design**, with a focus on building **robust, trustworthy, and scalable systems** in complex and constrained environments.
-
+My work lies at the intersection of **AI, cybersecurity, and secure system design**, with a focus on building **robust, trustworthy, and scalable systems** in complex and constrained environments.
 
 ---
 
@@ -29,7 +28,10 @@ His work lies at the intersection of **AI, cybersecurity, and secure system desi
 
 **Publications**
 - *UserArmor: An Extension for AppArmor* — Algorithms, 2025 (MDPI)  
+  [DOI](https://doi.org/10.3390/a18040185)
+
 - *UserArmor: An Extension for AppArmor* — Extended version, CEUR Workshop Proceedings (ICLP 2025)  
+  [PDF](https://ceur-ws.org/Vol-4117/paper_dc_8.pdf)
 
 **Conferences & Talks**
 - International Conference on Logic Programming (ICLP 2025)  
